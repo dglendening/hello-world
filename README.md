@@ -1,4 +1,4 @@
 # hello-world
 Hello!
 
-I'm an artist and Writer testing our GitHub and working through FreeCodeCamp challenges!
+I'm an artist and Writer testing out GitHub and working through FreeCodeCamp challenges!
